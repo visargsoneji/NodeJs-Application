@@ -1,4 +1,4 @@
-//importing server module
+//importing modules
 let server = require("./server");
 let router = require("./router");
 let requestHandler = require("./requestHandler");
